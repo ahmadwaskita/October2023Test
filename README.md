@@ -30,4 +30,4 @@ The test result will be shown immediately on the command line.
 **To view the test result in html format, you can use Allure report:**
 1. make sure allure report is installed ([allure installation](https://docs.qameta.io/allure/#_installing_a_commandline))
 2. open directory `TestResults`
-3. run the following command on terminal `allure serve ./` (it will read .trx file)
+3. run the following command on terminal `npx allure serve ./` (it will read .trx file)
